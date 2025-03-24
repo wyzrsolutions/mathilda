@@ -1,0 +1,41 @@
+{
+"1": {
+    "assignmentLevel": "E",
+    "useCalc": true,
+    "assignmentNumber": "2148",
+    "mbAssignmentChapter" : "2.1 ÄNDRINGSKVOTER OCH DERIVATA",
+    "assignmentText": "Jonathan har 2 korgar med 10 äpplen. Han tappar 3 på vägen. Hur många har han kvar?",
+    "progress": "Not Started",
+    "answer": "17"
+  },
+  "2": {
+    "assignmentLevel": "E",
+    "useCalc": true,
+    "assignmentNumber": "2149",
+    "mbAssignmentChapter" : "2.1 ÄNDRINGSKVOTER OCH DERIVATA",
+    "assignmentText": "Låt f(x) = 4x^2 och bestäm f’(5) så här: a) Ställ upp differenskvoten f(5+h)-f(5) / h b) Förenkla kvoten i a) c) Bestäm gränsvärdet för h --> 0 för det förenklade uttrycket.",
+    "image": "image_url_or_base64_here",
+    "progress": "Not Started",
+    "answer": "20"
+  },
+  "3": {
+    "assignmentLevel": "C",
+    "useCalc": false,
+    "assignmentNumber": "2150",
+    "mbAssignmentChapter" : "2.1 ÄNDRINGSKVOTER OCH DERIVATA",
+    "assignmentText": "Bestäm derivatan av f(x) = 3x^3 - 2x vid punkten x = 2 med hjälp av derivatans definition.",
+    "image": "image_url_or_base64_here",
+    "progress": "In Progress",
+    "answer": "30"
+  },
+  "4": {
+    "assignmentLevel": "A",
+    "useCalc": true,
+    "assignmentNumber": "2151",
+    "mbAssignmentChapter" : "2.2 SVÅRA DERIVATOR",
+    "assignmentText": "Rita grafen till f(x) = sin(x) och använd en grafisk metod för att uppskatta derivatan vid x = π/4.",
+    "image": "image_url_or_base64_here",
+    "progress": "Completed",
+    "answer": "40"
+  }
+}
