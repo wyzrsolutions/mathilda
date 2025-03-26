@@ -14,11 +14,99 @@
     "assignmentLevel": "E",
     "image": "base64",
     "useCalc": true,
-    "assignmentNumber": "1001",
+    "assignmentNumber": "1002",
     "mbAssignmentChapter": "1.1 ADDITION",
     "abilities": ["EKVATIONER", "ALGEBRA"],
-    "assignmentText": "Jonathan har 2 korgar med 10 äpplen. Han tappar 3 på vägen. Hur många har han kvar?",
-    "btns": { "saved": true, "completed": false },
-    "answer": "17"
+    "assignmentText": "Beräkna värdet av följande uttryck: (6⋅7)−10⋅714+7",
+    "btns": { "saved": false, "completed": false },
+    "answer": "44"
+  },
+  "3": {
+    "assignmentLevel": "C",
+    "image": "base64",
+    "useCalc": true,
+    "assignmentNumber": "1003",
+    "mbAssignmentChapter": "1.1 ADDITION",
+    "abilities": ["EKVATIONER", "ALGEBRA"],
+    "assignmentText": "Beräkna värdet av följande uttryck: (4+7)⋅6+4/8−7",
+    "btns": { "saved": false, "completed": false },
+    "answer": "59,5"
+  },
+  "4": {
+    "assignmentLevel": "E",
+    "image": "base64",
+    "useCalc": true,
+    "assignmentNumber": "1004",
+    "mbAssignmentChapter": "1.2 ADDITION",
+    "abilities": ["EKVATIONER", "ALGEBRA"],
+    "assignmentText": "Beräkna värdet av x för 3+x=5",
+    "btns": { "saved": false, "completed": false },
+    "answer": "2"
+  },
+  "5": {
+    "assignmentLevel": "E",
+    "image": "base64",
+    "useCalc": true,
+    "assignmentNumber": "1005",
+    "mbAssignmentChapter": "1.2 ADDITION",
+    "abilities": ["EKVATIONER", "ALGEBRA"],
+    "assignmentText": "Beräkna värdet av x i 3+2x=11",
+    "btns": { "saved": false, "completed": false },
+    "answer": "4"
+  },
+  "6": {
+    "assignmentLevel": "C",
+    "image": "base64",
+    "useCalc": true,
+    "assignmentNumber": "1006",
+    "mbAssignmentChapter": "1.2 ADDITION",
+    "abilities": ["EKVATIONER", "ALGEBRA"],
+    "assignmentText": "Beräkna värdet av x i x/2+4=12",
+    "btns": { "saved": false, "completed": false },
+    "answer": "16"
+  },
+  "7": {
+    "assignmentLevel": "C",
+    "image": "base64",
+    "useCalc": true,
+    "assignmentNumber": "1007",
+    "mbAssignmentChapter": "1.3 ADDITION",
+    "abilities": ["EKVATIONER", "ALGEBRA"],
+    "assignmentText": "v=s/t. En person kör sträckan 60 km med moped på tiden 4 timmar. I det här fallet är sträckan s = 60 km och tiden t = 4 timmar. Ta reda på den genomsnittliga hastigheten!",
+    "btns": { "saved": false, "completed": false },
+    "answer": "15km/h"
+  },
+  "8": {
+    "assignmentLevel": "A",
+    "image": "base64",
+    "useCalc": true,
+    "assignmentNumber": "1008",
+    "mbAssignmentChapter": "1.3 ADDITION",
+    "abilities": ["EKVATIONER", "ALGEBRA"],
+    "assignmentText": "En person springer sträckan 200 meter med den genomsnittliga hastigheten 8 meter per sekund. Använda formel t=s/v för att beräkna hur lång tid det tog.",
+    "btns": { "saved": false, "completed": false },
+    "answer": "25 sekunder"
+  },
+  "9": {
+    "assignmentLevel": "C",
+    "image": "base64",
+    "useCalc": true,
+    "assignmentNumber": "1009",
+    "mbAssignmentChapter": "1.4 ADDITION",
+    "abilities": ["EKVATIONER", "ALGEBRA"],
+    "assignmentText": "Beräkna omkrets och area för en rektangel där basen är 6 meter och höjden är 2 meter",
+    "btns": { "saved": false, "completed": false },
+    "answer": "Omkrets är 16 meter och area är 12 m²"
+  },
+  "10": {
+    "assignmentLevel": "A",
+    "image": "base64",
+    "useCalc": true,
+    "assignmentNumber": "1010",
+    "mbAssignmentChapter": "1.4 ADDITION",
+    "abilities": ["EKVATIONER", "ALGEBRA"],
+    "assignmentText": "Beräkna storleken på den okända vinkeln. Två av vinklarna i en triangel är 60° respektive 70°. Hur stor är då den tredje vinkeln i triangeln?",
+    "btns": { "saved": false, "completed": false },
+    "answer": "50°"
   }
 }
