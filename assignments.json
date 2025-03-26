@@ -13,7 +13,7 @@
   "2": {
     "assignmentLevel": "E",
     "image": "base64",
-    "useCalc": true,
+    "useCalc": false,
     "assignmentNumber": "1002",
     "mbAssignmentChapter": "1.1 ADDITION",
     "abilities": ["EKVATIONER", "ALGEBRA"],
@@ -24,7 +24,7 @@
   "3": {
     "assignmentLevel": "C",
     "image": "base64",
-    "useCalc": true,
+    "useCalc": false,
     "assignmentNumber": "1003",
     "mbAssignmentChapter": "1.1 ADDITION",
     "abilities": ["EKVATIONER", "ALGEBRA"],
