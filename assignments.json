@@ -1,7 +1,7 @@
 {
   "1": {
     "assignmentLevel": "E",
-    "image": "base64",
+    "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67edad9c294803c63ec30f53_Impossible_geometric.png",
     "useCalc": true,
     "assignmentNumber": "1001",
     "mbAssignmentChapter": "1.1 ADDITION",
@@ -12,7 +12,7 @@
   },
   "2": {
     "assignmentLevel": "E",
-    "image": "base64",
+    "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67edad9c294803c63ec30f53_Impossible_geometric.png",
     "useCalc": false,
     "assignmentNumber": "1002",
     "mbAssignmentChapter": "1.1 ADDITION",
@@ -23,7 +23,7 @@
   },
   "3": {
     "assignmentLevel": "C",
-    "image": "base64",
+    "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/67edad9c294803c63ec30f53_Impossible_geometric.png",
     "useCalc": false,
     "assignmentNumber": "1003",
     "mbAssignmentChapter": "1.1 ADDITION",
