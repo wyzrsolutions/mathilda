@@ -6,9 +6,9 @@
     "assignmentNumber": "1001",
     "mbAssignmentChapter": "1.1 ADDITION",
     "abilities": ["EKVATIONER", "ALGEBRA"],
-    "assignmentText": "Jonathan har 2 korgar med 10 äpplen. Han tappar 3 på vägen. Hur många har han kvar?",
-    "btns": { "saved": true, "completed": false },
-    "answer": "17"
+    "assignmentText": "En cirkels omkrets O kan beräknas med formeln O = 2πr. Där π = 3,14 och r är radien. Beräkna omkretsen för en cirkel som har radien 3 cm",
+    "btns": { "saved": false, "completed": false },
+    "answer": "19cm"
   },
   "2": {
     "assignmentLevel": "E",
@@ -17,9 +17,9 @@
     "assignmentNumber": "1002",
     "mbAssignmentChapter": "1.1 ADDITION",
     "abilities": ["EKVATIONER", "ALGEBRA"],
-    "assignmentText": "Beräkna värdet av följande uttryck: (6⋅7)−10⋅714+7",
+    "assignmentText": "Omkretsen av en rektangel där basen är tre gånger så lång som höjden är 72 cm. Hur stor är rektangelns area?",
     "btns": { "saved": false, "completed": false },
-    "answer": "44"
+    "answer": "243cm^2"
   },
   "3": {
     "assignmentLevel": "C",
@@ -28,9 +28,9 @@
     "assignmentNumber": "1003",
     "mbAssignmentChapter": "1.1 ADDITION",
     "abilities": ["EKVATIONER", "ALGEBRA"],
-    "assignmentText": "Beräkna värdet av följande uttryck: (4+7)⋅6+4/8−7",
+    "assignmentText": "Emma sålde glass. Hon sålde s st strutar och p st pinnar.   a) Förklara med ord vad som menas med    s - p = 42   b) Förklara med ord vad som kan menas med s = 3p    c) Hur många glassar sålde Emma totalt?",
     "btns": { "saved": false, "completed": false },
-    "answer": "59,5"
+    "answer": "Bedöm själv resonomang"
   },
   "4": {
     "assignmentLevel": "E",
@@ -39,9 +39,9 @@
     "assignmentNumber": "1004",
     "mbAssignmentChapter": "1.2 ADDITION",
     "abilities": ["EKVATIONER", "ALGEBRA"],
-    "assignmentText": "Beräkna värdet av x för 3+x=5",
+    "assignmentText": "Pelle ville lösa ett problem med tre på varandra följande heltal, som tillsammans ger summan 36. Han skrev ner ekvationen    (n-1) + n + (n+1) = 36.   a) Förklara varför ekvationen ser ut som den gör.     b) Vilka är de tre heltalen? LÖs ekvationen",
     "btns": { "saved": false, "completed": false },
-    "answer": "2"
+    "answer": "Bedöm själv resonomang"
   },
   "5": {
     "assignmentLevel": "E",
@@ -50,9 +50,9 @@
     "assignmentNumber": "1005",
     "mbAssignmentChapter": "1.2 ADDITION",
     "abilities": ["EKVATIONER", "ALGEBRA"],
-    "assignmentText": "Beräkna värdet av x i 3+2x=11",
+    "assignmentText": "Summan av fyra på varandra följande jämna tal är 740. Vilka är de fyra talen? Kalla det minsta taleft för x och lös uppgiften med en ekvation. Svara såhär: 'xxx, xxx, xxx, xxx'.",
     "btns": { "saved": false, "completed": false },
-    "answer": "4"
+    "answer": "182,184,186,188"
   },
   "6": {
     "assignmentLevel": "C",
@@ -61,9 +61,9 @@
     "assignmentNumber": "1006",
     "mbAssignmentChapter": "1.2 ADDITION",
     "abilities": ["EKVATIONER", "ALGEBRA"],
-    "assignmentText": "Beräkna värdet av x i x/2+4=12",
+    "assignmentText": "I en familj bestående av en mamma och trillingar är medelåldern 14 år. Om modern är fyra gånger äldre än barnen hur gamla är barnen då?",
     "btns": { "saved": false, "completed": false },
-    "answer": "16"
+    "answer": "8år"
   },
   "7": {
     "assignmentLevel": "C",
@@ -72,9 +72,9 @@
     "assignmentNumber": "1007",
     "mbAssignmentChapter": "1.3 ADDITION",
     "abilities": ["EKVATIONER", "ALGEBRA"],
-    "assignmentText": "v=s/t. En person kör sträckan 60 km med moped på tiden 4 timmar. I det här fallet är sträckan s = 60 km och tiden t = 4 timmar. Ta reda på den genomsnittliga hastigheten!",
+    "assignmentText": "En dansgrupp ska fluga en internationell dasupvisning. Totalt åker fyra ledare och treton ungdomar. Ungdomarnas biljetter kostar bara hälften av ledarnas. Totalt kostar flygbiljetterna 49 350 kr. Vad kostar en ungdomsbiljett?",
     "btns": { "saved": false, "completed": false },
-    "answer": "15km/h"
+    "answer": "2350kr"
   },
   "8": {
     "assignmentLevel": "A",
@@ -83,9 +83,9 @@
     "assignmentNumber": "1008",
     "mbAssignmentChapter": "1.3 ADDITION",
     "abilities": ["EKVATIONER", "ALGEBRA"],
-    "assignmentText": "En person springer sträckan 200 meter med den genomsnittliga hastigheten 8 meter per sekund. Använda formel t=s/v för att beräkna hur lång tid det tog.",
+    "assignmentText": "En familj med tre barn och två vucna ska köpam liftkort. Vuxenkortet är 145 kr dyrare än barnens liftkort. Vad kostar liftkortet för ett barn om alla fem kort kostade 1 340 kronor?",
     "btns": { "saved": false, "completed": false },
-    "answer": "25 sekunder"
+    "answer": "210kr"
   },
   "9": {
     "assignmentLevel": "C",
@@ -94,9 +94,9 @@
     "assignmentNumber": "1009",
     "mbAssignmentChapter": "1.4 ADDITION",
     "abilities": ["EKVATIONER", "ALGEBRA"],
-    "assignmentText": "Beräkna omkrets och area för en rektangel där basen är 6 meter och höjden är 2 meter",
+    "assignmentText": "Fyra syskon ska dela på en påse godis. De kommer överens om att de ska försöka dela antalet godisbitar i förhållande till deras ålder. Storebror är dubbelt så gammal som tvillingsystarrna och lillebror är två år yngre än storebro. Totalt är de 40 år gamla och ar 120 godisbitar. Hur många godisbitar får storebror?",
     "btns": { "saved": false, "completed": false },
-    "answer": "Omkrets är 16 meter och area är 12 m²"
+    "answer": "42st"
   },
   "10": {
     "assignmentLevel": "A",
@@ -105,8 +105,183 @@
     "assignmentNumber": "1010",
     "mbAssignmentChapter": "1.4 ADDITION",
     "abilities": ["EKVATIONER", "ALGEBRA"],
-    "assignmentText": "Beräkna storleken på den okända vinkeln. Två av vinklarna i en triangel är 60° respektive 70°. Hur stor är då den tredje vinkeln i triangeln?",
+    "assignmentText": "Palle samlar fotbollskort. I hans album får det plats 16 bilder per sida. Totalt har han köpt kort för 624 kronor och de har i genomsnitt kostat 1,50kr/st. Hur många sidr finns det i hans album om det nu är fyllt till 40%?",
     "btns": { "saved": false, "completed": false },
-    "answer": "50°"
+    "answer": "65sidor"
+  },
+  "11": {
+    "assignmentLevel": "A",
+    "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/674b2db5e29365b4480e7f8b_abstract-horizontal-grid-lines-graph-style-graphic-design_1017-39918.avif",
+    "useCalc": true,
+    "assignmentNumber": "1011",
+    "mbAssignmentChapter": "1.4 ADDITION",
+    "abilities": ["EKVATIONER", "ALGEBRA"],
+    "assignmentText": "Palle samlar fotbollskort. I hans album får det plats 16 bilder per sida. Totalt har han köpt kort för 624 kronor och de har i genomsnitt kostat 1,50kr/st. Hur många sidr finns det i hans album om det nu är fyllt till 40%?",
+    "btns": { "saved": false, "completed": false },
+    "answer": "65sidor"
+  },
+  "12": {
+    "assignmentLevel": "A",
+    "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/674b2db5e29365b4480e7f8b_abstract-horizontal-grid-lines-graph-style-graphic-design_1017-39918.avif",
+    "useCalc": true,
+    "assignmentNumber": "1012",
+    "mbAssignmentChapter": "1.4 ADDITION",
+    "abilities": ["EKVATIONER", "ALGEBRA"],
+    "assignmentText": "I en  rätvinkling triangel är den ena vinkeln 1,5 gånger så stor som den minsta vinklen. Bestäm den minsta vinkelns strolek. Svara utan enhet.",
+    "btns": { "saved": false, "completed": false },
+    "answer": "36"
+  },
+  "13": {
+    "assignmentLevel": "A",
+    "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/674b2db5e29365b4480e7f8b_abstract-horizontal-grid-lines-graph-style-graphic-design_1017-39918.avif",
+    "useCalc": true,
+    "assignmentNumber": "1013",
+    "mbAssignmentChapter": "1.4 ADDITION",
+    "abilities": ["EKVATIONER", "ALGEBRA"],
+    "assignmentText": "Använd algebra för att visa att summan av tre på varandra följande tal alltid är delbart med 3. Kalla det minsta talet för x.",
+    "btns": { "saved": false, "completed": false },
+    "answer": "Bedöm själv resonomanget"
+  },
+  "14": {
+    "assignmentLevel": "A",
+    "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/674b2db5e29365b4480e7f8b_abstract-horizontal-grid-lines-graph-style-graphic-design_1017-39918.avif",
+    "useCalc": true,
+    "assignmentNumber": "1014",
+    "mbAssignmentChapter": "1.4 ADDITION",
+    "abilities": ["EKVATIONER", "ALGEBRA"],
+    "assignmentText": "Skriv en ekvation som     a) inte har någon lösning     b) har oändligt många lösningar",
+    "btns": { "saved": false, "completed": false },
+    "answer": "Bedöm själv resonomanget"
+  },
+  "15": {
+    "assignmentLevel": "A",
+    "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/674b2db5e29365b4480e7f8b_abstract-horizontal-grid-lines-graph-style-graphic-design_1017-39918.avif",
+    "useCalc": true,
+    "assignmentNumber": "1015",
+    "mbAssignmentChapter": "1.4 ADDITION",
+    "abilities": ["EKVATIONER", "ALGEBRA"],
+    "assignmentText": "Ett tal som är 4 gånger så stort som x ökas med 12. Skriv ett uttryck för     a) 50% av talet?    b) en fjärdedel av talet?",
+    "answer": "Bedöm själv resonomanget"
+  },
+  "16": {
+    "assignmentLevel": "A",
+    "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/674b2db5e29365b4480e7f8b_abstract-horizontal-grid-lines-graph-style-graphic-design_1017-39918.avif",
+    "useCalc": true,
+    "assignmentNumber": "1016",
+    "mbAssignmentChapter": "1.4 ADDITION",
+    "abilities": ["EKVATIONER", "ALGEBRA"],
+    "assignmentText": "I en trinagel är vinklarna x, en är 25% av x och den tredje är 55% av x. Bestäm x. Svara: 'x = ___' ",
+    "btns": { "saved": false, "completed": false },
+    "answer": "x=100"
+  },
+  "17": {
+    "assignmentLevel": "A",
+    "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/674b2db5e29365b4480e7f8b_abstract-horizontal-grid-lines-graph-style-graphic-design_1017-39918.avif",
+    "useCalc": true,
+    "assignmentNumber": "1017",
+    "mbAssignmentChapter": "1.4 ADDITION",
+    "abilities": ["EKVATIONER", "ALGEBRA"],
+    "assignmentText": "Det får plats x personer runt ett rektangulärt bord. Det kan sitta en person på varje kortända. Flera bord sätts ihop i kortändorna. Skriv ett förenklat uttryck för hur många personer som kan sitta runt    a) två bord     b) fyra bord",
+    "btns": { "saved": false, "completed": false },
+    "answer": "Bedöm själv resonomanget"
+  },
+  "18": {
+    "assignmentLevel": "A",
+    "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/674b2db5e29365b4480e7f8b_abstract-horizontal-grid-lines-graph-style-graphic-design_1017-39918.avif",
+    "useCalc": true,
+    "assignmentNumber": "1018",
+    "mbAssignmentChapter": "1.4 ADDITION",
+    "abilities": ["EKVATIONER", "ALGEBRA"],
+    "assignmentText": "Summan av tre på varandra följande tal är 258. Vilja är talen?",
+    "btns": { "saved": false, "completed": false },
+    "answer": "85,86,87"
+  },
+  "19": {
+    "assignmentLevel": "A",
+    "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/674b2db5e29365b4480e7f8b_abstract-horizontal-grid-lines-graph-style-graphic-design_1017-39918.avif",
+    "useCalc": true,
+    "assignmentNumber": "1019",
+    "mbAssignmentChapter": "1.4 ADDITION",
+    "abilities": ["EKVATIONER", "ALGEBRA"],
+    "assignmentText": "Summan av tre på varanda följande jämna tal är 192. Vilja är talen?",
+    "btns": { "saved": false, "completed": false },
+    "answer": "62,64,66"
+  },
+  "20": {
+    "assignmentLevel": "A",
+    "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/674b2db5e29365b4480e7f8b_abstract-horizontal-grid-lines-graph-style-graphic-design_1017-39918.avif",
+    "useCalc": true,
+    "assignmentNumber": "1020",
+    "mbAssignmentChapter": "1.4 ADDITION",
+    "abilities": ["EKVATIONER", "ALGEBRA"],
+    "assignmentText": "Summan av tre på varandra följande udda tal är 81. Vilka är talen?",
+    "btns": { "saved": false, "completed": false },
+    "answer": "25,27,29"
+  },
+  "21": {
+    "assignmentLevel": "A",
+    "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/674b2db5e29365b4480e7f8b_abstract-horizontal-grid-lines-graph-style-graphic-design_1017-39918.avif",
+    "useCalc": true,
+    "assignmentNumber": "1021",
+    "mbAssignmentChapter": "1.4 ADDITION",
+    "abilities": ["EKVATIONER", "ALGEBRA"],
+    "assignmentText": "Förklara varför summan i uppgift 1020 aldig kan vara jämn och varför summan i uppgift 1019 alrig kan vara udda.",
+    "btns": { "saved": false, "completed": false },
+    "answer": "Bedöm resonomanget själv."
+  },
+  "22": {
+    "assignmentLevel": "A",
+    "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/674b2db5e29365b4480e7f8b_abstract-horizontal-grid-lines-graph-style-graphic-design_1017-39918.avif",
+    "useCalc": true,
+    "assignmentNumber": "1022",
+    "mbAssignmentChapter": "1.4 ADDITION",
+    "abilities": ["EKVATIONER", "ALGEBRA"],
+    "assignmentText": "Albin köper blommor. Han löper tulpaner och rosor. En ros kostar 12 kr och en tulpan kostar 7kr. Hans bukett består av 17 blommor och kostar 174 kr. Hur många tulpaner och hur många rosor var det i buketten?",
+    "btns": { "saved": false, "completed": false },
+    "answer": "x=11"
+  },
+  "23": {
+    "assignmentLevel": "A",
+    "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/674b2db5e29365b4480e7f8b_abstract-horizontal-grid-lines-graph-style-graphic-design_1017-39918.avif",
+    "useCalc": true,
+    "assignmentNumber": "1023",
+    "mbAssignmentChapter": "1.4 ADDITION",
+    "abilities": ["EKVATIONER", "ALGEBRA"],
+    "assignmentText": "Cashewnötter kostar 16kr/hg och pistagenötter kostar 13kr/hg. Emma köper totalt 1 kg och betalar 152,50 kr. hur mycket cashewnötter respektive pistagenötter har hon köpt? Svara: 'x = ____' med en decimal.",
+    "btns": { "saved": false, "completed": false },
+    "answer": "x=7,5"
+  },
+  "24": {
+    "assignmentLevel": "A",
+    "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/674b2db5e29365b4480e7f8b_abstract-horizontal-grid-lines-graph-style-graphic-design_1017-39918.avif",
+    "useCalc": true,
+    "assignmentNumber": "1024",
+    "mbAssignmentChapter": "1.4 ADDITION",
+    "abilities": ["EKVATIONER", "ALGEBRA"],
+    "assignmentText": "Eleverna i en klass med 20 elever får i uppgift att skaka hand och säga hej till alla sina klasskamrater.   a) Hur många handskakningar gjordes det i klassen totalt?",
+    "btns": { "saved": false, "completed": false },
+    "answer": "190st"
+  },
+  "25": {
+    "assignmentLevel": "A",
+    "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/674b2db5e29365b4480e7f8b_abstract-horizontal-grid-lines-graph-style-graphic-design_1017-39918.avif",
+    "useCalc": true,
+    "assignmentNumber": "1025",
+    "mbAssignmentChapter": "1.4 ADDITION",
+    "abilities": ["EKVATIONER", "ALGEBRA"],
+    "assignmentText": "Eleverna i en klass med 20 elever får i uppgift att skaka hand och säga hej till alla sina klasskamrater.   b) Om det hade varit 30 elever i klassen hur många handskakningar hade det då gjorts?",
+    "btns": { "saved": false, "completed": false },
+    "answer": "435st"
+  },
+  "26": {
+    "assignmentLevel": "A",
+    "image": "https://cdn.prod.website-files.com/649dad007d3ce154026f9175/674b2db5e29365b4480e7f8b_abstract-horizontal-grid-lines-graph-style-graphic-design_1017-39918.avif",
+    "useCalc": true,
+    "assignmentNumber": "1026",
+    "mbAssignmentChapter": "1.4 ADDITION",
+    "abilities": ["EKVATIONER", "ALGEBRA"],
+    "assignmentText": "Eleverna i en klass med 20 elever får i uppgift att skaka hand och säga hej till alla sina klasskamrater.   c) Skriv en formel där antalet elever i klassen betecknas n, och antalet handskakningar betecknas H.",
+    "btns": { "saved": false, "completed": false },
+    "answer": "H=(n*(n-1)/2"
   }
 }
