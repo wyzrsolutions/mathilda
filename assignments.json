@@ -74,7 +74,7 @@
     "abilities": ["EKVATIONER", "ALGEBRA"],
     "assignmentText": "En dansgrupp ska fluga en internationell dasupvisning. Totalt åker fyra ledare och treton ungdomar. Ungdomarnas biljetter kostar bara hälften av ledarnas. Totalt kostar flygbiljetterna 49 350 kr. Vad kostar en ungdomsbiljett?",
     "btns": { "saved": false, "completed": false },
-    "answer": "2350kr"
+    "answer": "2350"
   },
   "8": {
     "assignmentLevel": "A",
@@ -85,7 +85,7 @@
     "abilities": ["EKVATIONER", "ALGEBRA"],
     "assignmentText": "En familj med tre barn och två vucna ska köpam liftkort. Vuxenkortet är 145 kr dyrare än barnens liftkort. Vad kostar liftkortet för ett barn om alla fem kort kostade 1 340 kronor?",
     "btns": { "saved": false, "completed": false },
-    "answer": "210kr"
+    "answer": "210"
   },
   "9": {
     "assignmentLevel": "C",
