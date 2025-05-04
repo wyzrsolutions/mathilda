@@ -249,7 +249,7 @@
     "abilities": ["EKVATIONER", "ALGEBRA"],
     "assignmentText": "Cashewnötter kostar 16kr/hg och pistagenötter kostar 13kr/hg. Emma köper totalt 1 kg och betalar 152,50 kr. hur mycket cashewnötter respektive pistagenötter har hon köpt? Svara: 'x = ____' med en decimal.",
     "btns": { "saved": false, "completed": false },
-    "answer": "x=7,5"
+    "answer": "c=7,5p=2,5"
   },
   "24": {
     "assignmentLevel": "A",
